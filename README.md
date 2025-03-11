@@ -1,0 +1,2 @@
+# gobang
+AI generate project
